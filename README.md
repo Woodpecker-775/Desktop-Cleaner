@@ -1,5 +1,5 @@
 # Desktop-Cleaner
-Sure! Here's a breakdown of your code, line by line, with a detailed explanation:
+ Here's a breakdown of code, line by line, with a detailed explanation:
 
 ---
 
@@ -168,4 +168,4 @@ if __name__ == "__main__":
 - `"2025-01-16 13:00:00 - INFO - Moved: example.jpg → Images"`
 - `"2025-01-16 13:01:00 - INFO - Moved: unknown_file.xyz → Others"`
 
-This script is efficient for file management in large, unorganized folders. Let me know if anything is unclear!
+This script is efficient for file management in large, unorganized folders. 
